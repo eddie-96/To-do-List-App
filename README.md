@@ -38,7 +38,3 @@ The To-Do List App is a simple command-line application that helps users manage 
 - Task IDs are displayed in the app to assist users in performing actions like updating and deleting tasks.
 - The app utilizes the `tabulate` library for visually appealing tabular displays.
 - Make sure to input valid options when prompted to ensure smooth operation.
-
-Feel free to use and customize this simple to-do list app for your personal task management needs!
-
-Happy tasking! 📋✅
