@@ -1,6 +1,6 @@
 # To-Do List App
 
-#### Description:
+## Description:
 The To-Do List App is a simple command-line application that helps users manage their tasks efficiently. Users can perform various actions to interact with their to-do list, such as viewing tasks, creating new tasks, updating existing tasks, deleting tasks, and prioritizing tasks.
 
 ## Features
